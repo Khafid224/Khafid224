@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulhafid" target="blank"><img src="https://img.shields.io/twitter/follow/abdulhafid?logo=twitter&style=for-the-badge" alt="abdulhafid"  </p>
+<p align="left"> <a href="https://twitter.com/AHafid4476" target="blank"><img src="https://img.shields.io/twitter/follow/AHafid4476?logo=twitter&style=for-the-badge" alt="K
+Abdul Hafid"  </p>
 
 - 🔭 I’m currently working on Freelance **3D Visual ( Archiv & Generalist )**
 
