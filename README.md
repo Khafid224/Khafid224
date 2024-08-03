@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Abdul Hafid</h1>
-<h3 align="center">A passionate 3D Artist & Android Developer from Indonesia</h3>
+<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,15 +9,15 @@
 <p align="left"> <a href="https://twitter.com/AHafid4476" target="blank"><img src="https://img.shields.io/twitter/follow/AHafid4476?logo=twitter&style=for-the-badge" alt="K
 Abdul Hafid"  </p>
 
-- 🔭 I’m currently working on Freelance **3D Visual ( Archiv & Generalist )**
+- 🔭 I’m currently working on Freelance ****
 
-- 🌱 I’m currently learning **React Native & DevOps**
+- 🌱 I’m currently learning **React Native & React JavaScript**
 
-- 👨‍💻 All of my projects are available at [instagram.com/centimetrics](instagram.com/centimetrics)
+- 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Android , MEARN , 3D Artist**
+- 💬 Ask me about **Android , Web , 3D Artist**
 
-- 📫 How to reach me **centimetrics@gmail.com**
+- 📫 How to reach me **abdulhafid1230@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
