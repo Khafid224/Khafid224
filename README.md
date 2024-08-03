@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/AHafid4476" target="blank"><img src="https://img.shields.io/twitter/follow/AHafid4476?logo=twitter&style=for-the-badge" alt="K
 Abdul Hafid"  </p>
 
-- 🔭 I’m currently working on Freelance ****
+- 🔭 I’m currently working on Freelance **-**
 
 - 🌱 I’m currently learning **React Native & React JavaScript**
 
